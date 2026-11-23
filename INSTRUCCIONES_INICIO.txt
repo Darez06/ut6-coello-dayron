@@ -1,0 +1,36 @@
+NEXA STUDIO — MATERIAL DE PARTIDA · UT6 · 2.º DAW (2026–2027)
+===================================================================
+
+¿QUÉ ES?
+Una pequeña web de estudio digital en HTML, CSS y JavaScript creada como punto
+inicial de la práctica «Control de versiones y documentación de una aplicación web
+con Git». Esta web y los textos/marcas que muestra son ficticios.
+
+ARCHIVOS
+- index.html: contenido y estructura de la web.
+- css/estilos.css: colores, tarjetas, diseño adaptable y modo oscuro.
+- js/app.js: filtros de servicios y activación del tema oscuro.
+- assets/icono.svg: icono vectorial local.
+- INSTRUCCIONES_INICIO.txt: este documento.
+
+CÓMO ABRIRLA
+1. Extrae todos los archivos conservando las carpetas.
+2. Abre index.html con Firefox, Chrome o Edge (doble clic).
+3. Prueba los cuatro filtros: Todos, Diseño, Desarrollo y Estrategia.
+4. Comprueba el botón «Modo oscuro» y el regreso a «Modo claro».
+5. Cambia el ancho de la ventana para ver el diseño adaptable.
+
+NO REQUIERE INTERNET, SERVIDOR WEB NI INSTALACIÓN DE PAQUETES.
+
+IMPORTANTE PARA LA PRÁCTICA DE GIT
+- La entrega inicial NO contiene una carpeta .git: debes inicializarla tú.
+- No se proporciona README.md, CHANGELOG.md ni .gitignore: debes crearlos
+  siguiendo el enunciado de la práctica.
+- NO modifiques todavía el texto del párrafo que tiene id="mensaje-portada".
+  Se necesita sin cambios hasta el apartado de conflicto de fusión.
+- En «Servicios» puedes cambiar una tarjeta y su contenido sin modificar JS.
+- Puedes añadir una sección de contacto al final del contenido principal.
+- Mantén las funcionalidades que recibiste; no es una práctica de programación
+  web desde cero, sino de gestión y trazabilidad de cambios mediante Git.
+- Para el primer commit, revisa qué archivos se están incluyendo y evita
+  versionar cualquier credencial personal.
