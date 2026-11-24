@@ -151,3 +151,9 @@ img { display: block; max-width: 100%; }
   .pie-interior { flex-wrap: wrap; padding-block: 20px; justify-content: center; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *,*::before,*::after { transition-duration: .01ms !important; animation-duration: .01ms !important; } }
+#contacto {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid currentColor;
+}
